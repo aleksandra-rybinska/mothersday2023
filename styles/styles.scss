@@ -53,6 +53,23 @@ body {
   left: 0;
 }
 
+.lottie-container {
+  height: 300px;
+  position: relative;
+}
+
+.flowers, .card-title {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.card-title {
+  top: 40%;
+}
+
 .inside-text {
   position: absolute;
   top: 30%;
@@ -102,10 +119,4 @@ body {
 
 .front-content h1 {
   text-align: center;
-}
-
-.card-title {
-  position: absolute;
-  top: 110px;
-  left: 70px;
 }
