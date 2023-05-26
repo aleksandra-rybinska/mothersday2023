@@ -31,7 +31,7 @@ export default function Home() {
                 <Lottie animationData={flowers} className="flowers" />
                 <h1 className="card-title">Mamo</h1>
               </div>
-              <h1>Z okazji Twojego święta</h1>
+              <h1>Z okazji Twojego dnia</h1>
             </div>
           </div>
           <div className="back"></div>
