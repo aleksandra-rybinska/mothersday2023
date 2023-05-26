@@ -26,6 +26,7 @@ body {
 
 .card {
   width: 120vw;
+  max-width: 870px;
   height: 50vh;
   -webkit-perspective: 1200px;
   perspective: 1200px;
@@ -112,6 +113,7 @@ body {
 .front-content {
   display: flex;
   flex-direction: column;
+  justify-content: center;
   position: relative;
   height: 90%;
 }
